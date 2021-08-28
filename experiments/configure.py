@@ -1,0 +1,11 @@
+capacity = 1000000
+n_episode = 60000
+alpha = 0.2
+i_episode = 0
+epoch = 5
+batch_size = 2048
+gamma = 0.99
+beta_1 = 0.05
+epsilon = 0.9
+sum_reward = 0
+sum_win = 0
